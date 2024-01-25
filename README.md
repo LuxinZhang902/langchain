@@ -17,4 +17,4 @@ streamlit run main.py
 
 # Frontend
 
-![Image](img/mainPage.png)
+![Image](LLM_codebase/img/mainPage.png)
